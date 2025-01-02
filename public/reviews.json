@@ -1,0 +1,40 @@
+  [
+    {
+      "id": "101",
+      "name": "The Great Gatsby",
+      "details": "A classic novel by F. Scott Fitzgerald set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream.",
+      "rating": 4.7
+    },
+    {
+      "id": "102",
+      "name": "Inception",
+      "details": "A mind-bending science fiction film directed by Christopher Nolan, delving into dreams within dreams and the power of the subconscious.",
+      "rating": 4.8
+    },
+    {
+      "id": "103",
+      "name": "Samsung Galaxy S23",
+      "details": "A flagship smartphone with a high-resolution camera, powerful processor, and sleek design.",
+      "rating": 4.5
+    },
+    {
+      "id": "104",
+      "name": "Nike Air Max 270",
+      "details": "Stylish and comfortable running shoes with a large air unit for superior cushioning.",
+      "rating": 4.6
+    },
+    {
+      "id": "105",
+      "name": "Avengers: Endgame",
+      "details": "The epic conclusion to the Marvel Cinematic Universe’s Infinity Saga, featuring a team of superheroes fighting to save the universe.",
+      "rating": 4.9
+    },
+    {
+      "id": "106",
+      "name": "The Art of War",
+      "details": "An ancient Chinese military treatise attributed to Sun Tzu, offering timeless strategies for conflict and competition.",
+      "rating": 4.3
+    }
+  ]
+ 
+ 
